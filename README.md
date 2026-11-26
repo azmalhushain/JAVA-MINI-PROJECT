@@ -21,8 +21,8 @@ Manage available courses, create new classes, and remove existing classes.
 ### 3. Students Management
 View registered students and their email addresses, and add new students to the system.
 
-![Students Management](<img width="1171" height="709" alt="image" src="https://github.com/user-attachments/assets/edbf58a6-4cf2-4d47-be36-19ab3e41827b" />
-)
+<img width="1171" height="709" alt="image" src="https://github.com/user-attachments/assets/edbf58a6-4cf2-4d47-be36-19ab3e41827b" />
+
 
 ## ✨ Features
 
